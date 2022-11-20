@@ -6,5 +6,5 @@ The accompanied video can be found at: https://youtu.be/cb6afp_Q_GA
 
 <center>
 <a href="https://youtu.be/cb6afp_Q_GA"><img src="cover.png" width="65%" height="65%" />
-         Figure 1. Successfully converge in Sequence-00, Ma Tau Kok, Hong Kong 
+ 
 </center>
