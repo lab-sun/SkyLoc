@@ -9,4 +9,4 @@ The accompanied video can be found at: https://youtu.be/cb6afp_Q_GA
  
 </center>
 
- Contact: https://yuxiangsun.github.io/
+ Contact: weixin.ma@connect.polyu.hk
